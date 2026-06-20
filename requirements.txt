@@ -12,3 +12,8 @@ python-dotenv
 numpy
 scikit-learn
 streamlit
+langchain-community
+pypdf
+pymupdf
+langchain-groq
+typesense
